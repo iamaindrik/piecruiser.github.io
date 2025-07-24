@@ -1,7 +1,7 @@
 document.getElementById("myButton").addEventListener("click", function() {
   this.classList.add("animate");
   setTimeout(function() {
-    window.location.href = "https://piecruiser.github.io";
+    window.location.href = "https://linktr.ee/piecruiser.in";
   }, 1000);
   });
 
